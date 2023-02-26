@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/24 06:19:09.000.098,=C:\Users\G\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/24 06:19:09.000.192,=C:\Users\G\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/02/24 08:16:33.000.696,C:\Users\G\Desktop\AB GABS\Unit1.fmx=C:\Users\G\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/02/24 08:16:33.000.696,C:\Users\G\Desktop\AB GABS\Unit1.cpp=C:\Users\G\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/24 08:16:33.000.735,C:\Users\G\Desktop\AB GABS\GuessGame.cbproj=C:\Users\G\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/02/24 08:16:33.000.696,C:\Users\G\Desktop\AB GABS\Unit1.h=C:\Users\G\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/02/24 08:16:33.000.714,C:\Users\G\Desktop\AB GABS\GuessGamePCH1.h=C:\Users\G\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/02/24 08:16:54.000.205,C:\Users\G\Desktop\AB GABS\Unit2.h=C:\Users\G\Desktop\AB GABS\Unit1.h</Transaction>
+    <Transaction>2023/02/24 08:16:54.000.205,C:\Users\G\Desktop\AB GABS\Unit2.fmx=C:\Users\G\Desktop\AB GABS\Unit1.fmx</Transaction>
+    <Transaction>2023/02/24 08:16:54.000.205,C:\Users\G\Desktop\AB GABS\Unit2.cpp=C:\Users\G\Desktop\AB GABS\Unit1.cpp</Transaction>
+    <Transaction>2023/02/24 08:16:57.000.184,C:\Users\G\Desktop\AB GABS\GuessGame.cbproj=C:\Users\G\Desktop\AB GABS\GuessGame.cbproj</Transaction>
+    <Transaction>2023/02/26 19:16:17.218,C:\Users\G\Desktop\AB- Advanced Programming\GuessGamePCH2.h=C:\Users\G\Desktop\AB GABS\GuessGamePCH1.h</Transaction>
+    <Transaction>2023/02/26 19:16:17.259,C:\Users\G\Desktop\AB- Advanced Programming\GuessGame.cbproj=C:\Users\G\Desktop\AB GABS\GuessGame.cbproj</Transaction>
+    <Transaction>2023/02/26 19:16:20.754,C:\Users\G\Desktop\AB- Advanced Programming\GuessGame.cbproj=C:\Users\G\Desktop\AB- Advanced Programming\GuessGame.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
